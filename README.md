@@ -22,6 +22,8 @@ Two ways:
 (2) different models according to different store_id (total 10 models, CA_1, CA_2, CA_3, CA_4, TX_1, TX_2, TX_3, WI_1, WI_2, WI_3)  
 I use the second way as my final submission because it performs better in my validation set.  
 
+I only upload some of the notebooks but others are similar. You only need to change the store_id or state_id to train your data.  
+
 **Evaluation**  
 Weighted Root Mean Squared Scaled Error (RMSSE)  
 https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/133834  
