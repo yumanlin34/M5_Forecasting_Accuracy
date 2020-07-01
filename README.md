@@ -8,7 +8,7 @@ This is one of the two complementary competitions that together comprise the M5 
 
 
 **Data**  
-https://www.kaggle.com/c/m5-forecasting-accuracy/data
+https://www.kaggle.com/c/m5-forecasting-accuracy/data  
 calendar.csv - Contains information about the dates on which the products are sold.  
 sales_train_validation.csv - Contains the historical daily unit sales data per product and store [d_1 - d_1913]  
 sample_submission.csv - The correct format for submissions.   
