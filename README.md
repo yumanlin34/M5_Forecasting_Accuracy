@@ -27,3 +27,6 @@ I only upload some of the notebooks but others are similar. You only need to cha
 **Evaluation**  
 Weighted Root Mean Squared Scaled Error (RMSSE)  
 https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/133834  
+
+**Submission**  
+The submission_v100.csv contains my final result. The RMSSE is 0.66751 (private leaderboard).  
